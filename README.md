@@ -52,33 +52,21 @@ src/
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js (version 14 or higher)
-- npm or yarn
-
 ### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd Project-MacOS
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
 
    ```bash
    npm install
    ```
 
-3. Start the development server:
+2. Start the development server:
 
    ```bash
    npm run dev
    ```
 
-4. Open your browser and navigate to:
+3. Open your browser and navigate to:
    ```
    http://localhost:5173
    ```
@@ -86,9 +74,7 @@ src/
 ## 📦 Available Scripts
 
 - `npm run dev` - Start development server with hot reload
-- `npm run build` - Build optimized production bundle
-- `npm run preview` - Preview production build locally
-- `npm run lint` - Run ESLint to check code quality
+
 
 ## 🎨 Customization
 
@@ -157,10 +143,6 @@ State management handles opening/closing windows via the dock buttons:
 ```jsx
 onClick={() => setWindowsState((state) => ({...state, github: true}))}
 ```
-
-## 🤝 Contributing
-
-Feel free to fork this project and customize it for your own portfolio!
 
 ## 👨‍💻 Author
 

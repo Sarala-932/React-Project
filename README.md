@@ -50,21 +50,13 @@ src/
 └── main.jsx                  # Entry point
 ```
 
-## 🚀 Getting Started
-
-### Installation
-
 1. Install dependencies:
 
-   ```bash
    npm install
-   ```
 
 2. Start the development server:
 
-   ```bash
    npm run dev
-   ```
 
 3. Open your browser and navigate to:
    ```
@@ -74,7 +66,6 @@ src/
 ## 📦 Available Scripts
 
 - `npm run dev` - Start development server with hot reload
-
 
 ## 🎨 Customization
 
@@ -154,4 +145,3 @@ onClick={() => setWindowsState((state) => ({...state, github: true}))}
 ---
 
 **Happy coding!** 🚀
-# React-Project

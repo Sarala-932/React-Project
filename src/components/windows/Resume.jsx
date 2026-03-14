@@ -1,0 +1,12 @@
+import React from "react";
+import MacWindow from "./MacWindow";
+import "./resume.scss";
+export default function Resume({windowName, setWindowsState}) {
+  return (
+    <MacWindow windowName={windowName} setWindowsState={setWindowsState}>
+      <div className="resume-window">
+        <embed src="/resume.pdf" frameborder="0"></embed>
+      </div>
+    </MacWindow>
+  );
+}

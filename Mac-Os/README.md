@@ -144,7 +144,7 @@ onClick={() => setWindowsState((state) => ({...state, github: true}))}
 
 **Sarala Ratna**
 
-- GitHub: [github.com/saralaratna](https://github.com/saralaratna)
+- GitHub: [github.com/saralaratna](https://github.com/Sarala-932)
 - LinkedIn: [linkedin.com/in/saralaratna](https://linkedin.com/in/saralaratna)
 
 ---

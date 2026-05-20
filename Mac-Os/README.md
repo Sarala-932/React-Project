@@ -1,7 +1,7 @@
 # 🖥️ macOS Desktop Portfolio (React)
 
 ## 🔗 Live Demo
-https://react-project-cyan-five.vercel.app/
+https://macos-cyan-five.vercel.app/
 
 ## 🎯 Purpose
 A modern, interactive portfolio website with a macOS-inspired desktop interface. Built with React, This project was built to simulate a real macOS desktop environment using React, focusing on advanced UI interactions like draggable windows, dynamic state management, and smooth animations.

@@ -1,5 +1,7 @@
 # FoodieWeb — Modern DABA Restaurant 🍽️
 
+**Live Demo:** [https://foodieweb-self.vercel.app/](https://foodieweb-self.vercel.app/)
+
 A modern, responsive restaurant website built with React. FoodieWeb showcases **Modern DABA** — a culinary brand with menu browsing, table booking, blog articles, and delivery partner integrations.
 
 ## ✨ Features
